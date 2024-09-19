@@ -67,5 +67,14 @@
 
             label = "Nav";
         };
+
+        Gaming {
+            bindings = <
+&kp TAB  &kp TAB    &kp Q    &kp W   &kp E   &kp R     &trans  &trans  &trans  &trans  &trans  &trans
+&kp ESC  &kp LSHFT  &kp A    &kp S   &kp D   &kp F     &trans  &trans  &trans  &trans  &trans  &trans
+&kp M    &kp SPACE  &kp RET  &kp X   &kp C   &kp V     &trans  &trans  &trans  &trans  &trans  &trans
+                             &trans  &trans  &trans    &trans  &trans  &trans
+            >;
+        };
     };
 };
