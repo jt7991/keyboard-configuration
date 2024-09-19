@@ -49,7 +49,7 @@
         Symbols {
             bindings = <
 &trans  &kp TILDE      &kp UNDERSCORE  &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp PIPE         &kp EQUAL     &kp LS(AMPS)  &kp LS(STAR)   &kp LS(LPAR)   &kp LS(PLUS)  &trans
-&trans  &kp LS(POUND)  &kp LS(DLLR)    &kp LS(LPAR)    &kp LS(RPAR)     &kp GRAVE        &trans        &kp LS(DLLR)  &kp LS(PRCNT)  &kp LS(CARET)  &kp MINUS     &trans
+&trans  &kp MINUS      &kp EQUAL       &kp LS(LPAR)    &kp LS(RPAR)     &kp GRAVE        &trans        &kp LS(DLLR)  &kp LS(PRCNT)  &kp LS(CARET)  &kp MINUS     &kp EQUAL
 &trans  &kp LS(PRCNT)  &kp LS(CARET)   &kp LBKT        &kp RBKT         &kp LS(TILDE)    &kp LS(RPAR)  &kp LS(EXCL)  &kp LS(AT)     &kp LS(POUND)  &kp BSLH      &trans
                                        &mo 3           &trans           &trans           &trans        &trans        &trans
             >;
